@@ -11,8 +11,8 @@ minima:
    hide_site_feed_link: true
    social_links:
    - title: Svante Wold @ GitHub
-   - icon: github
-   - url: "https://github.com/swantay"
+      icon: github
+      url: "https://github.com/swantay"
 
 # Where things are
 source              : .
