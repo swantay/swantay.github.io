@@ -13,6 +13,9 @@ minima:
    - title: Svante Wold @ GitHub
      icon: github
      url: "https://github.com/swantay"
+   - title: Svante Wold @ LinkedIn
+     icon: linkedin
+     url: "https://linkedin.com/svante-wold"
 
 # Where things are
 source              : .
