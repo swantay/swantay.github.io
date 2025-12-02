@@ -1,4 +1,9 @@
-title: "Svante D. Wold"
+# Site-wide settings
+title: "Svante D. Wold - Economist"
+author:
+   name: Svante Daneklev Wold
+   email: svantedw@icloud.com
+
 
 remote_theme: "jekyll/minima@1e8a445"
 
@@ -7,6 +12,7 @@ minima:
     - title: Svante Wold @ GitHub
       icon: github
       url: "https://github.com/swantay"
+  hide_site_feed_link: true
 
 # Where things are
 source              : .
