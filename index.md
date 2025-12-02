@@ -3,4 +3,4 @@ layout: home
 title: Home
 ---
 
-Här är lite innehåll
+Welcome to my new webpage!
