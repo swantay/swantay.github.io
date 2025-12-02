@@ -8,11 +8,11 @@ author:
 remote_theme: "jekyll/minima@1e8a445"
 
 minima:
-hide_site_feed_link: true
-  social_links:
-    - title: Svante Wold @ GitHub
-      icon: github
-      url: "https://github.com/swantay"
+   hide_site_feed_link: true
+   social_links:
+   - title: Svante Wold @ GitHub
+   - icon: github
+   - url: "https://github.com/swantay"
 
 # Where things are
 source              : .
